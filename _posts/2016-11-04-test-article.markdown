@@ -1,10 +1,10 @@
 ---
 bg: "coding.png"
 layout: post
-title:  "Test Article"
-crawlertitle: "How to use jekyll"
-summary: "Just a test article"
-date:   2018-11-05 10:09:47 +0700
+title:  "Test title"
+crawlertitle: "Test crawlertitle"
+summary: "test summary"
+date:   2018-11-04 10:09:47 +0700
 categories: posts
 tags: 'test'
 author: leo
