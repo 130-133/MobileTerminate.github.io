@@ -3,18 +3,18 @@
 
   
   <url>
-    <loc>http://localhost:4000/posts/open-falcon-structure/</loc>
+    <loc>http://localhost:4000/posts/tech-line/</loc>
     
-      <lastmod>2018-11-05</lastmod>
+      <lastmod>2018-11-06</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/test-article/</loc>
+    <loc>http://localhost:4000/posts/open-falcon-structure/</loc>
     
-      <lastmod>2018-11-04</lastmod>
+      <lastmod>2018-11-05</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
